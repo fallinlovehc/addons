@@ -1,0 +1,4 @@
+## Title: MyAddon
+## Version: 1.0
+## Author: Scary
+MyAddon.lua
