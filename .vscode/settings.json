@@ -239,6 +239,8 @@
         "UISpecialFrames",
         "APIDocumentation_LoadUI",
         "APIDocumentation",
-        "WeakAuras"
+        "WeakAuras",
+        "GetNamePlates",
+        "Plater"
     ]
 }
